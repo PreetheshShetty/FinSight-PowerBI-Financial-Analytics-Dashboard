@@ -195,5 +195,5 @@ MBA Student
 
 ### Power BI Report
 
-[Finsight.pbix](Finsight.pbix)
+[Finsight.pbix](https://github.com/PreetheshShetty/FinSight-PowerBI-Financial-Analytics-Dashboard/blob/main/Finsight.pbix)
 
