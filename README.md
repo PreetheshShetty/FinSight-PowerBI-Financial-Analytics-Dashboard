@@ -48,7 +48,7 @@ Contains:
 - Annual Income
 - Join Date
 
-[customers.csv](customers.csv)
+[customers.csv](https://github.com/PreetheshShetty/FinSight-PowerBI-Financial-Analytics-Dashboard/blob/main/customers.csv)
 
 
 ### Transaction Dataset
