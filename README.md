@@ -183,7 +183,7 @@ MBA Student
 
 ## Consumer Overview Dashboard
 
-![Consumer Overview](Screenshots/Consumer_Overview.png)
+![Consumer Overview](https://github.com/PreetheshShetty/FinSight-PowerBI-Financial-Analytics-Dashboard/blob/main/Consumer%20Overview%20Analysis.png)
 
 
 ## Transaction Analysis Dashboard
