@@ -188,7 +188,7 @@ MBA Student
 
 ## Transaction Analysis Dashboard
 
-![Transaction Analysis](Screenshots/Transaction_Analysis.png)
+![Transaction Analysis](https://github.com/PreetheshShetty/FinSight-PowerBI-Financial-Analytics-Dashboard/blob/main/Transaction%20Analysis.png)
 
 
 # Project Files
