@@ -70,7 +70,7 @@ Contains:
 - Fraud Indicator
 - Risk Score
 
-[finance_transactions.csv](finance_transactions.csv)
+[finance_transactions.csv](https://github.com/PreetheshShetty/FinSight-PowerBI-Financial-Analytics-Dashboard/blob/main/finance_transactions.csv)
 
 
 ## Tools Used
